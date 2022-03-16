@@ -9,7 +9,7 @@ from the years 1973 to 1975 for a large regional bank in southern Germany. The o
 3. Who funded the creation of the dataset?
 The bank?
 4. Any other comments?
-The information above was mainly taken from [this] (http://www1.beuth-hochschule.de/FB_II/reports/Report-2019-004.pdf )source, which provides a story for the data tracing it back to academic work from as early as 1981.
+The information above was mainly taken from [this](http://www1.beuth-hochschule.de/FB_II/reports/Report-2019-004.pdf )source, which provides a story for the data tracing it back to academic work from as early as 1981.
 Bad credits are heavily oversampled (prevalence 5%)
 All debtors must have passed some checks of creditworthiness before being granted the credit.
 5. What do the instances that comprise the dataset represent?
