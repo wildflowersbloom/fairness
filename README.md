@@ -1,5 +1,6 @@
 # fairness
-Data sheets for datasets. 
+Based on Data sheets for datasets by Timnit Gebru, et al. 2018, we are documenting the german credit dataset available [here](https://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29) 
+
 1. For what purpose was the data set created?
 Classify as good or bad credit risk, false positives being worse, losing the bank money.
 2. Who created the dataset (for example, which team, research group) and on behalf of which entity (for example, company, institution, organization)?
