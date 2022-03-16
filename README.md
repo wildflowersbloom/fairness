@@ -1,4 +1,5 @@
 # fairness
+Data sheets for datasets. 
 1. For what purpose was the data set created?
 Classify as good or bad credit risk, false positives being worse, losing the bank money.
 2. Who created the dataset (for example, which team, research group) and on behalf of which entity (for example, company, institution, organization)?
@@ -96,16 +97,12 @@ data collected?
 27. Did you collect the data from
 the individuals in question directly,
 or obtain it via third parties or other
-sources (for example, websites)?
-28. Were the individuals in question notified about the data collection? 
+sources (for example, websites)? Indirectly 
+28. Were the individuals in question notified about the data collection? Most likely not explicity 
 29. Did the individuals in question
 consent to the collection and use of
-their data? If so, please describe (or
-show with screenshots or other information) how consent was requested
-and provided, and provide a link or
-other access point to, or otherwise reproduce, the exact language to which
+their data? Most likely not explicitly
 the individuals consented.
 30. If consent was obtained, were the consenting individuals provided
-with a mechanism to revoke their consent in the future or for certain uses?
-
+with a mechanism to revoke their consent in the future or for certain uses? 
 
