@@ -2,11 +2,12 @@
 1. For what purpose was the data set created?
 Classify as good or bad credit risk, false positives being worse, losing the bank money.
 2. Who created the dataset (for example, which team, research group) and on behalf of which entity (for example, company, institution, organization)?
-Prof. Dr. Hans Hofmann, Institut fur Statistik und Okonomie, Universitat Hamburg
-from the years 1973 to 1975 for a large regional bank in southern Germany.
+The data was uploaded by Prof. Dr. Hans Hofmann, Institut fur Statistik und Okonomie, Universitat Hamburg
+from the years 1973 to 1975 for a large regional bank in southern Germany. The original generator of the data is unknown beyond this.
 3. Who funded the creation of the dataset?
-The bank
+The bank?
 4. Any other comments?
+5. The information above was mainly taken from the following source: http://www1.beuth-hochschule.de/FB_II/reports/Report-2019-004.pdf which provides a story for the data tracing it back to academic work from as early as 1981.
 Bad credits are heavily oversampled (prevalence 5%)
 All debtors must have passed some checks of creditworthiness before being granted the credit.
 5. What do the instances that comprise the dataset represent?
