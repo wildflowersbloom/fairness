@@ -54,5 +54,58 @@ orientations, religious beliefs, political opinions or union memberships,
 or locations; financial or health data;
 biometric or genetic data; forms of
 government identification, such as social security numbers; criminal history)?
+20. Any other comments?
+Collection process. As with the
+questions in the previous section,
+dataset creators should read through
+these questions prior to any data collection to flag potential issues and
+then provide answers once collection
+is complete. In addition to the goals
+outlined earlier, the following questions are designed to elicit information that may help researchers and
+practitioners to create alternative
+datasets with similar characteristics. Again, questions that apply only
+to datasets that relate to people are
+grouped together at the end of the
+section.
+21. How was the data associated
+with each instance acquired? Was
+the data directly observable (for example, raw text, movie ratings), reported by subjects (for example, survey responses), or indirectly inferred/
+derived from other data (for example,
+part-of-speech tags, model-based
+guesses for age or language)? If the
+data was reported by subjects or indirectly inferred/derived from other
+data, was the data validated/verified?
+If so, please describe how.
+22. What mechanisms or procedures were used to collect the data
+(for example, hardware apparatuses
+or sensors, manual human curation,
+software programs, software APIs)?
+How were these mechanisms or procedures validated?
+23. If the dataset is a sample from
+a larger set, what was the sampling
+strategy (for example, deterministic,
+probabilistic with specific sampling
+probabilities)? Probably
+24. Who was involved in the data
+collection process (for example, students, crowdworkers, contractors)
+and how were they compensated (for
+example, how much were crowdworkers paid)?
+25. Over what timeframe was the
+data collected?
+26. Were any ethical review processes conducted (for example, by an institutional review board)?
+27. Did you collect the data from
+the individuals in question directly,
+or obtain it via third parties or other
+sources (for example, websites)?
+28. Were the individuals in question notified about the data collection? 
+29. Did the individuals in question
+consent to the collection and use of
+their data? If so, please describe (or
+show with screenshots or other information) how consent was requested
+and provided, and provide a link or
+other access point to, or otherwise reproduce, the exact language to which
+the individuals consented.
+30. If consent was obtained, were the consenting individuals provided
+with a mechanism to revoke their consent in the future or for certain uses?
 
 
